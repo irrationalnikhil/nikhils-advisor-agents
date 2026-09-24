@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.zip
+.env
+.env.*
+private/
+logs/
+transcripts/
+.advisor-state/
+.claude/settings.local.json
+.claude/agent-memory/
+.codex/config.toml
