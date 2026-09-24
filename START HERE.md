@@ -1,4 +1,4 @@
-# Meet your advisor team
+# Meet Nikhil's Advisor Agents
 
 Start with one real piece of work: a page, a proposal, a confusing decision, or a spreadsheet. Give it to the agent whose job fits.
 

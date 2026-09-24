@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1 — 24 September 2026
+
+Renamed the collection to **Nikhil's Advisor Agents** for public sharing. Updated the repository branding, entry guide, installation guide, and ZIP package. Agent behaviour and permissions are unchanged. Public visibility does not add an open-source licence.
+
 ## 1.0.0 — 24 September 2026
 
 First private team release as native named agents for Claude Code and Codex. The six concise Codex advisor profiles and the September behavioural-design update are the baseline. Hannah's numerical-analysis role is condensed from the existing agent library and added alongside them.

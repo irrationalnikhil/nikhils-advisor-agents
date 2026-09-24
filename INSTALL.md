@@ -1,4 +1,4 @@
-# Install the advisor agents
+# Install Nikhil's Advisor Agents
 
 ## Ask your AI to do it
 

@@ -1,6 +1,6 @@
-# Irrational Labs advisor agents
+# Nikhil's Advisor Agents
 
-Seven named agents that can take on work independently, use the tools available in your project, and return evidence and a recommendation. Adapted from Nikhil's working advisor team, with the concise Codex versions as the starting point.
+Nikhil's personal collection of seven named agents that can take on work independently, use the tools available in your project, and return evidence and a recommendation. Adapted from his working advisor team, with the concise Codex versions as the starting point.
 
 **New here? Open [START HERE.md](START%20HERE.md).** The ZIP contains the same files as this repository, including the native agent definitions for **Claude Code** and **Codex**.
 
@@ -56,4 +56,4 @@ Python 3.11 or newer is needed only for these helper scripts. No extra Python pa
 
 Each installed definition includes its own role and the shared agreement, so it remains usable when copied to another project. Rebuild instead of editing the generated copies. Keep project data, meeting transcripts, chat logs, credentials, and private feedback out of commits and shared ZIPs.
 
-Private team distribution. No open-source licence is granted by this repository.
+Publicly available for viewing and forking on GitHub. No open-source licence is granted by this repository.
